@@ -11,6 +11,7 @@
   inputs.src-nimclipboard-master.ref   = "refs/heads/master";
   inputs.src-nimclipboard-master.owner = "genotrance";
   inputs.src-nimclipboard-master.repo  = "nimclipboard";
+  inputs.src-nimclipboard-master.dir   = "";
   inputs.src-nimclipboard-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";

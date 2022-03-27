@@ -11,6 +11,7 @@
   inputs.src-nimclipboard-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-nimclipboard-v0_1_0.owner = "genotrance";
   inputs.src-nimclipboard-v0_1_0.repo  = "nimclipboard";
+  inputs.src-nimclipboard-v0_1_0.dir   = "";
   inputs.src-nimclipboard-v0_1_0.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
